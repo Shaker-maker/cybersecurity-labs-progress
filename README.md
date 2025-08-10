@@ -28,18 +28,19 @@ No real-world systems are tested or harmed.
 
 ## 📊 Progress Tracker
 
-| Lab        | Module / Challenge         | Status       | Date Completed |
-|------------|----------------------------|--------------|----------------|
-| WebGoat    | SQL Injection               | ❌ Not Started |                |
-| WebGoat    | Cross-Site Scripting (XSS) | ❌ Not Started |                |
-| WebGoat    | Insecure Deserialization   | ❌ Not Started |                |
-| DVWA       | Brute Force                 | ❌ Not Started |                |
-| DVWA       | File Upload                 | ❌ Not Started |                |
-| DVWA       | Command Injection           | ❌ Not Started |                |
-| Juice Shop | Login Bypass                 | ❌ Not Started |                |
-| Juice Shop | Scoreboard Challenges       | ❌ Not Started |                |
+### WebGoat
+- [ ] [SQL Injection](WebGoat/notes/sql-injection.md)
+- [ ] [Cross-Site Scripting (XSS)](WebGoat/notes/xss.md)
+- [ ] [Insecure Deserialization](WebGoat/notes/insecure-deserialization.md)
 
-> ✅ = Completed | 🟡 = In Progress | ❌ = Not Started
+### DVWA
+- [ ] [Brute Force](DVWA/notes/brute-force.md)
+- [ ] [File Upload](DVWA/notes/file-upload.md)
+- [ ] [Command Injection](DVWA/notes/command-injection.md)
+
+### Juice Shop
+- [ ] [Login Bypass](JuiceShop/notes/login-bypass.md)
+- [ ] [Scoreboard Challenges](JuiceShop/notes/scoreboard-challenges.md)
 
 ---
 
