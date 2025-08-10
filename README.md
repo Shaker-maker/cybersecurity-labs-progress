@@ -1,7 +1,7 @@
 # Cybersecurity Labs Progress
 
 This repository documents my hands-on practice in cybersecurity using educational labs.  
-The goal is to strengthen my penetration testing, ethical hacking, and secure coding skills in preparation for a cybersecurity internship in May 2026.
+The goal is to strengthen my penetration testing, ethical hacking, and secure coding skills in preparation for a cybersecurity.
 
 ---
 
