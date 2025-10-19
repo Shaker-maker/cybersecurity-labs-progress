@@ -24,16 +24,16 @@ For example:
 
 ## ✅ Progress
 - [x] HTTP Proxies  
-- [ ] A1 – Injection  
-- [ ] A2 – Broken Authentication  
-- [ ] A3 – Sensitive Data Exposure  
-- [ ] A4 – XML External Entities  
-- [ ] A5 – Broken Access Control  
+- [ ] A1 – Broken Access Control  
+- [ ] A2 – Crytograhic Failures  
+- [ ] A3 – Injection  
+- [ ] A4 – Security Misconfiguration
+- [ ] A5 – Vuln & Outdated Components
 - [ ] A6 – Security Misconfiguration  
-- [ ] A7 – Cross-Site Scripting  
-- [ ] A8 – Insecure Deserialization  
-- [ ] A9 – Using Components with Known Vulnerabilities  
-- [ ] A10 – Insufficient Logging & Monitoring  
+- [ ] A7 – Identity & Auth Failure
+- [ ] A8 – Software & Data Integrity
+- [ ] A9 – Security Logging Failures
+- [ ] A10 – Server side Request Forgery
 
 ---
 
