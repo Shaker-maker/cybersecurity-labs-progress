@@ -183,3 +183,15 @@ The lab demonstrates a clear example of insecure client-side authentication toke
 
 ---
 
+
+## Screenshots
+
+![DevTools — spoof_auth cookie](screenshots/Screenshot_2025-10-28_13_02_09.png)
+*DevTools showing the `spoof_auth` cookie for a logged-in user.*
+
+![Burp Repeater — spoofed cookie header](screenshots/Screenshot_2025-10-28_13_02_09.png)
+*Burp Repeater showing the `Cookie:` header with the spoofed `spoof_auth` value.*
+
+![WebGoat — logged in as Tom](screenshots/Screenshot_2025-10-28_13_11_21.png)
+*WebGoat protected page showing successful authentication as **Tom** after setting the spoofed cookie.*
+
